@@ -1,0 +1,10 @@
+venv
+.git
+.vs
+outputs
+previewer
+repositories
+.vscode
+__pycache__
+models/__pycache__
+pipelines/__pycache__
